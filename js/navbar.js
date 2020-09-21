@@ -1,0 +1,3 @@
+// В страницы нужно добавить уникальный идентиффикатор id = navbar
+"use strict";
+header__nav.insertAdjacentHTML('beforeend', '<a class="header__nav__link" href="captcha.html">captcha</a> <a class="header__nav__link" href="mechanism.html">mechanism</a> <a class="header__nav__link" href="fizzbuzz.html">fizzbuzz</a><a class="header__nav__link" href="chek.html">search for divisors</a><a class="header__nav__link" href="">link5</a><a class="header__nav__link" href="index.html">link6</a>');
