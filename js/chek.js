@@ -35,3 +35,4 @@ function calculet(x) {
 };
 
 console.log(arreyD);
+alert(arreyD);
