@@ -6,7 +6,7 @@
 5. +вычисление делителей
 6. +вывод результата*/
 
-
+function doChek() {
 console.log("Start");
 let x = putInNamber();
 let  arreyD = [];
@@ -36,3 +36,4 @@ function calculet(x) {
 
 console.log(arreyD);
 alert(arreyD);
+};
